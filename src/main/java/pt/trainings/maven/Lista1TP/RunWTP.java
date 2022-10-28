@@ -9,7 +9,7 @@ public class RunWTP {
         }
         catch (NumberFormatException e)
         {
-            System.out.println("nieprawidłowa dana");
+            System.out.println("nieprawidłowa dana 02");
             new ExceptionTr();
             return;
         }
